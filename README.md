@@ -1,4 +1,4 @@
-Some data structures and algorithms based on "The Algorithm Design Manual" by Skiena.
+Data structures and algorithms based on "The Algorithm Design Manual" by Skiena.
 
-I'm implemeting them to understand them better. 
+Implementing some of them for learning purposes.
 
